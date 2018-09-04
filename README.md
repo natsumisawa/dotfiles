@@ -1,5 +1,5 @@
 # Install
 
 ```
-$ bash -c "$(curl -L raw.githubusercontent.com/ababup1192/dotfiles/master/install)"
+$ bash -c "$(curl -L raw.githubusercontent.com/natsumisawa/dotfiles/master/install)"
 ```
